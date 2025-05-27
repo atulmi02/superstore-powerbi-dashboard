@@ -56,12 +56,3 @@ An interactive Power BI dashboard created to analyze sales, profit, and shipping
 - Designed a drillable, filterable dashboard to derive strategic business insights
 - Learned to communicate data stories visually for decision-making
 
----
-
-## 📸 Dashboard Preview
-
-> *(Add screenshot images in an `/images` folder and reference them here)*
-
-```markdown
-![Basic Dashboard Preview](images/basic_dashboard.png)
-![Advanced Dashboard Preview](images/advanced_dashboard.png)
