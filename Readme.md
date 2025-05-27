@@ -60,5 +60,5 @@ An interactive Power BI dashboard created to analyze sales, profit, and shipping
 
 ## 📸 Dashboard Preview
 
-![Power BI Dashboard](images/SuperstoreDashboard.jpg)
+![Power BI Dashboard](images/SuperstoreDashboard.JPG)
 
