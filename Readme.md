@@ -56,3 +56,9 @@ An interactive Power BI dashboard created to analyze sales, profit, and shipping
 - Designed a drillable, filterable dashboard to derive strategic business insights
 - Learned to communicate data stories visually for decision-making
 
+---
+
+## 📸 Dashboard Preview
+
+![Power BI Dashboard](images/Superstore Dashboard.jpg)
+
